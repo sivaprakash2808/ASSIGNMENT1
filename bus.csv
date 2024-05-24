@@ -1,0 +1,11 @@
+,bus route,firstbus,lastbus,amount
+0,Bangalore to Kozhikode,"<span class=""totalRoutes"">First Bus<!-- --> : <strong>10:03</strong></span>","<span class=""totalRoutes"">Last Bus<!-- --> : <strong>23:30</strong></span>","<span class=""fare""> <!-- -->INR 215</span>"
+1,Kozhikode to Ernakulam,"<span class=""totalRoutes"">First Bus<!-- --> : <strong>00:30</strong></span>","<span class=""totalRoutes"">Last Bus<!-- --> : <strong>23:50</strong></span>","<span class=""fare""> <!-- -->INR 174</span>"
+2,Kozhikode to Bangalore,"<span class=""totalRoutes"">First Bus<!-- --> : <strong>03:02</strong></span>","<span class=""totalRoutes"">Last Bus<!-- --> : <strong>23:25</strong></span>","<span class=""fare""> <!-- -->INR 411</span>"
+3,Ernakulam to Kozhikode,"<span class=""totalRoutes"">First Bus<!-- --> : <strong>00:20</strong></span>","<span class=""totalRoutes"">Last Bus<!-- --> : <strong>23:39</strong></span>","<span class=""fare""> <!-- -->INR 193</span>"
+4,Kozhikode to Thrissur,"<span class=""totalRoutes"">First Bus<!-- --> : <strong>00:20</strong></span>","<span class=""totalRoutes"">Last Bus<!-- --> : <strong>23:59</strong></span>","<span class=""fare""> <!-- -->INR 120</span>"
+5,Kozhikode to Thiruvananthapuram,"<span class=""totalRoutes"">First Bus<!-- --> : <strong>00:01</strong></span>","<span class=""totalRoutes"">Last Bus<!-- --> : <strong>23:45</strong></span>","<span class=""fare""> <!-- -->INR 215</span>"
+6,Kozhikode to Mysore,"<span class=""totalRoutes"">First Bus<!-- --> : <strong>00:50</strong></span>","<span class=""totalRoutes"">Last Bus<!-- --> : <strong>23:25</strong></span>","<span class=""fare""> <!-- -->INR 147</span>"
+7,Mysore to Kozhikode,"<span class=""totalRoutes"">First Bus<!-- --> : <strong>00:15</strong></span>","<span class=""totalRoutes"">Last Bus<!-- --> : <strong>23:59</strong></span>","<span class=""fare""> <!-- -->INR 256</span>"
+8,Bangalore to Kalpetta (kerala),"<span class=""totalRoutes"">First Bus<!-- --> : <strong>10:03</strong></span>","<span class=""totalRoutes"">Last Bus<!-- --> : <strong>23:30</strong></span>","<span class=""fare""> <!-- -->INR 357</span>"
+9,Thiruvananthapuram to Kozhikode,"<span class=""totalRoutes"">First Bus<!-- --> : <strong>00:03</strong></span>","<span class=""totalRoutes"">Last Bus<!-- --> : <strong>23:45</strong></span>","<span class=""fare""> <!-- -->INR 111</span>"
